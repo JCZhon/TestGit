@@ -117,4 +117,8 @@ public class Test {
         }
         System.out.println(a);
     }
+
+    public void testGit(){
+        String name;
+    }
 }
